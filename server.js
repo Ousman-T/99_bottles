@@ -25,39 +25,6 @@ app.get('/:number_of_bottles', (req, res) => {
     }
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 app.listen(PORT, () => {
     console.log(`Listening on port #${PORT}`);
 })
